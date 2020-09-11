@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "support.html",
     "name": "Africa",
     "theme": {
       "name": "mobirise3",
@@ -2031,7 +2031,7 @@
             "showButtons": true
           },
           "title": "ADOPT A CHILD TODAY",
-          "text": "Be the reason a child out there Smilling hopefully knowing each day that &nbsp;comes by<br>bring him a step closer to realizing his Dream, become that family he never had",
+          "text": "Be the reason a child out there is Smilling hopefully knowing each day that &nbsp;comes by<br>brings him a step closer to realizing his Dream, become that family he never had",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"adopt.html\" data-toolbar=\"-mbrBtnMove\">ADOPT NOW</a>"
         },
         {
@@ -2645,7 +2645,7 @@
           },
           "title": "<br><div><br></div><div>We Believe Love can Heal the World</div>",
           "text": "<b>we believe in love, we believe love can heal the world and even though most of us dont think its possible for the world to be in peace, we must thrieve with all the passion and willingness in us to serve and give the best we can and as well help people express that love in them they never knew was there</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SUPPORT US NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"support.html\" data-toolbar=\"-mbrBtnMove\">SUPPORT US NOW</a>"
         },
         {
           "_inherit": "header2",
