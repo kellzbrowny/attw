@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 89,
+    "uniqCompNum": 94,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -121,7 +121,7 @@
           "_anchor": "menu-k",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -148,7 +148,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\">DOWNLOAD THEME SONG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\"><strong>Contact us</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
         },
         {
           "_name": "header1",
@@ -404,7 +404,7 @@
           "_anchor": "menu-13",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -431,7 +431,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\">DOWNLOAD THEME SONG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\"><strong>Contact us</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
         },
         {
           "_name": "footer1",
@@ -454,26 +454,6 @@
             "overlayColor": "#444444"
           },
           "text": "<b>Copyright (c) 2020 Africa To The World Foundation</b>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Ways to Support&nbsp;",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -997,7 +977,7 @@
           "_anchor": "menu-1e",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1024,7 +1004,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\">DOWNLOAD THEME SONG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\"><strong>Contact us</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
         },
         {
           "_name": "footer1",
@@ -1394,7 +1374,7 @@
           "_anchor": "menu-1n",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1422,7 +1402,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\">DOWNLOAD THEME SONG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\"><strong>Contact us</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
         },
         {
           "_name": "header1",
@@ -1913,7 +1893,7 @@
           "_anchor": "menu-1w",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -1940,7 +1920,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\">DOWNLOAD THEME SONG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\"><strong>Contact us</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
         },
         {
           "_name": "header1",
@@ -2212,7 +2192,7 @@
           "_anchor": "menu-25",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2240,7 +2220,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\">DOWNLOAD THEME SONG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\"><strong>Contact us</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"true\"><span style=\"font-weight: normal;\">HELP</span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
         },
         {
           "_name": "footer1",
@@ -2498,10 +2478,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2543,7 +2523,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.85",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -2570,7 +2550,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\">DOWNLOAD THEME SONG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
         },
         {
           "_name": "footer1",
@@ -2643,7 +2623,7 @@
               "size": 0
             }
           },
-          "title": "<br><div><br></div><div>We Believe Love can Heal the World</div>",
+          "title": "<br><div><br></div><div>We Believe in Love </div><div>? Do you&nbsp;</div>",
           "text": "<b>we believe in love, we believe love can heal the world and even though most of us dont think its possible for the world to be in peace, we must thrieve with all the passion and willingness in us to serve and give the best we can and as well help people express that love in them they never knew was there</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"support.html\" data-toolbar=\"-mbrBtnMove\">SUPPORT US NOW</a>"
         },
@@ -2912,6 +2892,312 @@
           ],
           "_name": "contacts4",
           "_anchor": "contacts4-5",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>\n14 Asim-Ita Layout<br>\nCalabar, 540211<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@atwfoundation.com<br>\nPhone: +234 (0) 810 2821515<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kellzbrowny@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2h",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aftw-white-txt-288x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">PROJECTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OVERVIEW</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEAM</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page2.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DONATE NOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pay.html\"><span class=\"mbri-credit-card mbr-iconfont mbr-iconfont-btn\"></span>CASH DONATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"usuables.html\"><span class=\"mbri-devices mbr-iconfont mbr-iconfont-btn\"></span>DONATE USUABLES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopt.html\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>ADOPT A CHILD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\"><span style=\"font-weight: normal;\">HELP</span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forms.gle/v2JqoVtNRVpy3MRt5\">Volunteer</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Contact us<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"Overview.html\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD THEME SONG</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-2i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Copyright (c) 2020 Africa To The World Foundation</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2l",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "TEAM MEMBERS",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/c-600x613.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Dr. Pedro I.E",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/d-600x603.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Arc. Eloma Wisdom Jones",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/b-600x582.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Dr. Charity Onmonya&nbsp;",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/a-600x595.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Prince I.<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">A</span><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-2j",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": 3,
